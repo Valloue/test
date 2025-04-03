@@ -1,0 +1,25 @@
+{
+    "repos": [
+        {
+            "name": "test 2",
+            "local_path": "C:\\NextCloud\\app\\github",
+            "remote_url": "https://github.com/Valloue/test.git",
+            "branch": "main",
+            "excluded_files": [
+                "__pycache__/",
+                "*.py[cod]",
+                "*$py.class",
+                "*.so",
+                ".env",
+                ".venv",
+                "env/",
+                "venv/",
+                "ENV/",
+                "env.bak/",
+                "venv.bak/",
+                ".idea/",
+                ".vscode/"
+            ]
+        }
+    ]
+}
